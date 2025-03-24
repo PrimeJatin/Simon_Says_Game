@@ -18,8 +18,6 @@ Increasing difficulty as the game progresses
 
 User interaction via mouse clicks
 
-Sound effects for each button press
-
 Game-over detection and restart functionality
 
 Technologies Used
